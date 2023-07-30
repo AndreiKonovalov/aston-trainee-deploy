@@ -8,6 +8,6 @@ public class ApiController {
 
     @GetMapping
     public String main(){
-        return "Hello, World";
+        return "Hello, Jenkins";
     }
 }
