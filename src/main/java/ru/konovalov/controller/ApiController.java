@@ -10,6 +10,6 @@ public class ApiController {
 
     @GetMapping
     public String main(){
-        return "Hello, Tomcat";
+        return "Hello, World";
     }
 }
